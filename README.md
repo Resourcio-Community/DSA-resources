@@ -27,7 +27,7 @@ To add, remove or change things on the list:
 ## Youtube Channels for DSA
 |Name|Link|
 |---|---|
-|Apna College for C++|Click Here](https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)|
+|Apna College for C++|[Click Here](https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)|
 |DSA One Course|[Click Here](https://youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)|
 |Love Babbar|[Click Here](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)|     
 ---
